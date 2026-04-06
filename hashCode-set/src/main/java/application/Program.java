@@ -2,15 +2,16 @@ package application;
 
 import java.util.HashSet;
 import java.util.Set;
+import java.util.TreeSet;
 
 public class Program {
     void main() {
 
-        Set<String> set = new HashSet<>();
+        Set<String> set = new TreeSet<>();
 
         set.add("TV");
-        set.add("Notebook");
         set.add("Tablet");
+        set.add("Notebook");
 
         System.out.println(set.contains("Notebook"));
 
