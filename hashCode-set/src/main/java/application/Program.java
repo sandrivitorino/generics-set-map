@@ -14,7 +14,7 @@ public class Program {
         set.add("Tablet");
         set.add("Notebook");
 
-        System.out.println(set.contains("Notebook"));
+        set.remove("Tablet");
 
         for (String p : set) {
             System.out.println(p);
