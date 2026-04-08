@@ -17,6 +17,8 @@
         <module>hashCode-set</module>
         <module>hashCode-equals</module>
         <module>set1-excFix</module>
+        <module>set2-excFix</module>
+        <module>set2-excFix</module>
     </modules>
 
     <properties>
