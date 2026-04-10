@@ -19,6 +19,7 @@
         <module>set1-excFix</module>
         <module>set2-excFix</module>
         <module>set2-excFix</module>
+        <module>map-excFix</module>
     </modules>
 
     <properties>
